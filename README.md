@@ -17,7 +17,12 @@ To use the skill, simply ask for the status of a game on the supported games lis
 
 * Secret World Legends
 * The Secret World
+* Age of Conan
 
 ## Games In Development
 
-* Age of Conan 
+## Games In Backlog
+
+* World of Warcraft
+* Elder Scrolls Online
+* Star Citizen 
