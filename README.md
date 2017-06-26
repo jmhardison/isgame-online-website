@@ -16,8 +16,8 @@ To use the skill, simply ask for the status of a game on the supported games lis
 ## Current Supported Games
 
 * Secret World Legends
+* The Secret World
 
 ## Games In Development
 
-* Age of Conan
-* The Secret World 
+* Age of Conan 
