@@ -1,6 +1,3 @@
----
-title: IsGame.Online
----
 # IsGame.Online
 
 IsGame.Online is an Alexa Skill service to provide status of supported online games.
