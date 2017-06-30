@@ -18,6 +18,8 @@ To use the skill, simply ask for the status of a game on the supported games lis
 
 ## Games In Development
 
+* Xbox Live
+
 ## Games In Backlog
 
 * World of Warcraft
