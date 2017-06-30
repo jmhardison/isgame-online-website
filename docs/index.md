@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-IsGame.Online is an Alexa Skill service to provide status of supported online games.
+IsGame.Online is an Alexa Skill service to provide status of supported online games or game services.
 Determining status of games in some cases is based on scraping the information from a launcher page, while others will be based on either an API call or port/service testing. More games will be added over time based on use of the service. Each unknown game will be recorded in order to be evaluated for support in the future.
 
 ## Using Skill
