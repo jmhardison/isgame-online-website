@@ -27,11 +27,11 @@ To use the skill, simply ask for the status of a game on the supported games lis
   * Stormblood
   * Heavensward
   * Final Fantasy XIV
-
+* Playstation
 
 ## Games In Development
 
-* Playstation
+
 
 ## Games In Backlog
 
