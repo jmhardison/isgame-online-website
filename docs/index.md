@@ -21,6 +21,13 @@ To use the skill, simply ask for the status of a game on the supported games lis
 * The Secret World
 * Age of Conan
 * Xbox Live
+* Star Trek Online
+* Final Fantasy XIV Online
+  * A Realm Reborn
+  * Stormblood
+  * Heavensward
+  * Final Fantasy XIV
+
 
 ## Games In Development
 
