@@ -28,6 +28,7 @@ To use the skill, simply ask for the status of a game on the supported games lis
   * Heavensward
   * Final Fantasy XIV
 * Playstation
+* Eve Online
 
 ## Games In Development
 
