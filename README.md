@@ -26,6 +26,7 @@ To use the skill, simply ask for the status of a game on the supported games lis
   * Final Fantasy XIV
 * Playstation
 * Eve Online
+* League of Legends
 
 ## Games In Development
 
