@@ -30,6 +30,7 @@ To use the skill, simply ask for the status of a game on the supported games lis
 * Playstation
 * Eve Online
 * League of Legends
+* Star Citizen - Uses a port test against universe server until API or status page is available to parse/scrape.
 
 ## Games In Development
 
@@ -38,4 +39,3 @@ To use the skill, simply ask for the status of a game on the supported games lis
 ## Games In Backlog
 
 * Elder Scrolls Online
-* Star Citizen 
