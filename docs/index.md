@@ -31,6 +31,8 @@ To use the skill, simply ask for the status of a game on the supported games lis
 * Eve Online
 * League of Legends
 * Star Citizen - Uses a port test against universe server until API or status page is available to parse/scrape.
+* Fortnite
+
 
 ## Games In Development
 
