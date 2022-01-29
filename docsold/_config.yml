@@ -1,6 +1,0 @@
-title: IsGame.Online
-description: An Alexa skill backend for checking some online games status.
-theme: jekyll-theme-cayman
-markdown: kramdown
-kramdown:
-   auto_ids: true
