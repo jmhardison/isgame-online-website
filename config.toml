@@ -2,7 +2,7 @@ baseURL = "https://isgame.online"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Is Game Online"
-theme = "paige"
+theme = "gohugo-theme-ananke"
 
 # Google analytics
 #googleAnalytics = "UA-123456789-1"
