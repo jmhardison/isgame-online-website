@@ -1,0 +1,17 @@
+# Setup
+title:        IsGame.Online
+tagline:      An Alexa skill backend for checking some online games status.
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Jonathan hardison
+  url:        http://isgame.online
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
