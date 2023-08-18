@@ -24,7 +24,7 @@ pygmentsStyle = "pygments"
   # Header text, can be markdown
   #project_name = "Is Game Online"
   project_name = "![Is Game Online](img/isgameonlineheaderlogo.png)"
-  project_tagline = "An Alexa skill backend for checking some online games status."
+  project_tagline = "An Alexa skill backend."
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
